@@ -1,4 +1,4 @@
-const n = 100;
+const n = 50;
 const array = [];
 init();
 
